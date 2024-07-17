@@ -19,5 +19,5 @@
 
 
 ## 📈My statistics
-|[![stats](https://github-readme-stats.vercel.app/api?username=JeffersonRiobueno&theme=city_lights&show_icons=true&hide_border=true)](https://link.jeffersonriobueno.com/?utm=GITHUB)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonRiobueno&show_icons=true&theme=city_lights)](https://link.jeffersonriobueno.com/?utm=GITHUB)|
+|[![stats](https://github-readme-stats.vercel.app/api?username=JeffersonRiobueno&theme=city_lights&show_icons=true&hide_border=true)](https://link.jeffersonriobueno.com/?utm=GITHUB)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonRiobueno&show_icons=true&theme=city_lights&layout=compact)](https://link.jeffersonriobueno.com/?utm=GITHUB)|
 |---|---|
