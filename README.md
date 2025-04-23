@@ -3,7 +3,6 @@
 [![Personal Site](https://img.shields.io/badge/Personal%20Site-grey?logo=github&style=flat-square&link=https://link.jeffersonriobueno.com)](https://link.jeffersonriobueno.com/?utm=GITHUB)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square&link=https://www.linkedin.com/in/jeffersonriobueno)](https://www.linkedin.com/in/jeffersonriobueno)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=flat-square&link=https://twitter.com/riobueno_jr)](https://twitter.com/riobueno_jr)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeffersonRiobueno&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=true)](https://github.com/JeffersonRiobueno)
 
 ## ⚙ My stack technologies
 <!---
